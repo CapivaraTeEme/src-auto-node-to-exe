@@ -20,7 +20,7 @@ function printBanner() {
     (_____  )     | .'| | |  _| . |___${chalk.greenBright("|   | . | . | -_|")}_   _| . |___${chalk.cyan("| -_|_'_| -_|")}
     /\\|_|)  |     |__,|___|_| |___|   ${chalk.greenBright("|_|_|___|___|___|")} |_| |___|   ${chalk.cyan("|___|_,_|___|")}
     \\_______) 
-       |_|        ${chalk.greenBright("V2 ~ Cracked by ceperoo#0000")} | discord.gg/tempestgang
+       |_|        ${chalk.greenBright("V2 ~ Cracked by ceperoo#0000")} | discord.gg/GF6sK9vyaq
   `));
 }
 
