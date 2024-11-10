@@ -1,2 +1,1 @@
-@echo off
-start cmd \k "npm install"
+start cmd /k node index.js
