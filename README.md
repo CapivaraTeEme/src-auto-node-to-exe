@@ -2,7 +2,7 @@
   <img  src="https://media.discordapp.net/attachments/1172295274379612210/1239307880457441300/image.png?ex=66578ae7&is=66563967&hm=70e9a7a33aacdcebab721b917f58d9e9b7c4270e03d603e628b8e408fed82e7d&=&format=webp&quality=lossless&width=1225&height=625">
 </div>
 
-# Auto-node-to-exe
+# Auto-node-to-exe | UnObfuscated by ceperoo#0000
 **Convierte** tus **proyectos de Node.js** en **ejecutables** ( **.exe** ).
 
 - Cómo **convertir** mi proyecto de **Node.js** a un **ejecutable** ?
