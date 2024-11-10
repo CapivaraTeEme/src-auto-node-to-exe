@@ -14,13 +14,13 @@ function printBanner() {
   console.clear();
   console.log(chalk.white(`
         _          
-     __|_|___           Brzzl made this, src unobfuscated by ceperoo#0000
+     __|_|___                        Brzzl made this, src unobfuscated by ceperoo#0000
     (  _____/              _          
     | (|_|__       ___ _ _| |_ ___ ___  ${chalk.greenBright(" ___ ___ _| |___ ")}___| |_ ___ ___${chalk.cyan(" ___ _ _ ___ ")}
     (_____  )     | .'| | |  _| . |___  ${chalk.greenBright("|   | . | . | -_|")}_|  _| . |___${chalk.cyan("| -_|_'_| -_|")}
     /\\|_|)  |     |__,|___|_| |___|   ${chalk.greenBright("|_|_|___|___|___|")}_|_| |___|   ${chalk.cyan("|___|_,_|___|")}
     \\_______) 
-       |_|        ${chalk.greenBright("V2 ~ Cracked by ceperoo#0000")} | discord.gg/tempestgang
+       |_|        ${chalk.greenBright("V2 ~ UnObfuscated by ceperoo#0000")} | discord.gg/GF6sK9vyaq
   `));
 }
 
