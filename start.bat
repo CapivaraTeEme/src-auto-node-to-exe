@@ -1,2 +1,1 @@
-@echo off
-start cmd \k "node index.js"
+start cmd /k node index.js
